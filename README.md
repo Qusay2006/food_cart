@@ -16,5 +16,5 @@ A Flutter mobile app for browsing and ordering food items.
 ## Getting Started
 1. Clone the repo
 2. Run flutter pub get
-3. Run dart run build_runner build --delete-conflicting-outputs
+3. Run dart run build_runner build --delete-conflicting-outputs // or use (flutter pub run build_runner build --delete-conflicting-outputs)
 4. Run flutter run
